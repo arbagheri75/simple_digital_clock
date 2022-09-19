@@ -1,11 +1,11 @@
 from tkinter import *
 from time import strftime
 
+
 def time():
     string = strftime('%H:%M:%S  %p')
     label_time.config(text=string)
     label_time.after(1000, time)
-    
     
 
 window = Tk()
@@ -18,4 +18,3 @@ label_time.pack()
 
 time()
 window.mainloop()
-#  this is end
