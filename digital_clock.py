@@ -6,6 +6,7 @@ def time():
     label_time.config(text=string)
     label_time.after(1000, time)
     
+    
 
 window = Tk()
 window.title('digital clock')
@@ -17,3 +18,4 @@ label_time.pack()
 
 time()
 window.mainloop()
+#  this is end
