@@ -3,12 +3,12 @@
 # Digita clock
 
 ## How to run?
-```python
-python digital_clock.py
+```bash
+> python digital_clock.py
 ```
 ## How to download
 
-```
+```bash
 git clone git@github.com:arbagheri75/simple_digital_clock.git
 ```
 
