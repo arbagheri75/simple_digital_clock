@@ -12,8 +12,11 @@ python digital_clock.py
 git clone git@github.com:arbagheri75/simple_digital_clock.git
 ```
 
+<a href="#images">Images</a>
 
+<a href="#links">links</a>
 
+<a href="#images">images</a>
 
 
 
@@ -91,3 +94,27 @@ print("hello world!")
 
 > Hello I'm alireza bagheri
 >> I'm `python programmer`
+
+---
+## Links And Images
+
+<h3 id="links">links</h3>
+
+- <a href='https://faradars.org/'>Faradars</a>
+- MD link: [Faradars](https://faradars.org)
+- MD part2:
+
+[faradars_link]:https://faradars.org
+- [fara][faradars_link]
+
+```javascript
+console.log("hello");
+```
+
+<h3 id="images">Images</h3>
+
+<img src="https://faradars.org/wp-content/uploads/2024/03/27/h.new-01.svg">
+
+![description](https://faradars.org/wp-content/uploads/2024/03/27/h.new-01.svg)
+
+[![description](https://faradars.org/wp-content/uploads/2024/03/27/h.new-01.svg)](https://faradars.org)
