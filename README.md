@@ -4,7 +4,7 @@
 
 ## How to run?
 ```bash
-> python digital_clock.py
+python digital_clock.py
 ```
 ## How to download
 
