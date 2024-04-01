@@ -12,11 +12,10 @@ python digital_clock.py
 git clone git@github.com:arbagheri75/simple_digital_clock.git
 ```
 
-<a href="#images">Images</a>
 
 <a href="#links">links</a>
 
-<a href="#images">images</a>
+<a href="#image">images</a>
 
 
 
@@ -110,11 +109,19 @@ print("hello world!")
 ```javascript
 console.log("hello");
 ```
+### tables
 
-<h3 id="images">Images</h3>
+| col 1 | col 2 | col 3 |
+|--|--|--|
+| Row1 - col1| row1 - col2| row1 - col3 |
+| Row2 - col1| row2 - col2| row2 - col3 |
+| Row3 - col1| row3 - col2| row3 - col3 |
+
+<h3 id="image">image</h3>
 
 <img src="https://faradars.org/wp-content/uploads/2024/03/27/h.new-01.svg">
 
 ![description](https://faradars.org/wp-content/uploads/2024/03/27/h.new-01.svg)
 
 [![description](https://faradars.org/wp-content/uploads/2024/03/27/h.new-01.svg)](https://faradars.org)
+
