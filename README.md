@@ -1,6 +1,35 @@
-<h1> Heading1 </h1>
+
 
 # Digita clock
+
+## How to run?
+```python
+python digital_clock.py
+```
+## How to download
+
+```
+git clone git@github.com:arbagheri75/simple_digital_clock.git
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h1> Heading1 </h1>
 
 ## Heading2
 ### Heading3
